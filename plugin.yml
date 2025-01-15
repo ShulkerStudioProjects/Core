@@ -1,0 +1,7 @@
+name: core
+api: 5.0.0
+version: 1.0.0
+main: core\Main
+author: Refaltor
+depend:
+  - Customies
